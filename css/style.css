@@ -1085,7 +1085,7 @@ textarea {
 }
 
 .nemo-page {
-  background-image: url(../../img/nemo-page-bacground.jpg);
+  background-image: url(../img/nemo-page-bacground.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
